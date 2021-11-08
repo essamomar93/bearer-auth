@@ -11,7 +11,7 @@ PORT = 3000
 - npm run test
 
 ## Deployment Test :
--Heroku: https://essam-bearer-auth.herokuapp.com/ 
+- Heroku: https://essam-bearer-auth.herokuapp.com/ 
 - Github : https://github.com/essamomar93/bearer-auth 
 - pull request :https://github.com/essamomar93/bearer-auth/pull/1 
 
