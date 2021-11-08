@@ -6,7 +6,6 @@ PORT = 3000
 
 ## Running the app
 - npm run dev
-- 
 ## Tests
 - npm run test
 
