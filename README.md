@@ -2,7 +2,7 @@
 ## Author: Essam Omar
 ## Setup
 - .env
-PORT = 3000
+- PORT = 3000
 
 ## Running the app
 - npm run dev
