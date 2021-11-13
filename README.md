@@ -1,4 +1,6 @@
 # bearer-auth
+## Author:
+- Essam Omar
 ## Setup :
 - .env /PORT=3000
 
@@ -18,3 +20,4 @@
 
 UML :
 ![bearer](bearer-auth.png)
+
