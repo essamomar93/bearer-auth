@@ -1,22 +1,23 @@
-# bearer-auth 
-## Author: Essam Omar
-## Setup
-- .env
-- PORT = 3000
+# bearer-auth
+## Author:
+- Essam Omar
+## Setup :
+- .env /PORT=3000
 
-## Running the app
-- npm run dev
-## Tests
+## Test :
 - npm run test
 
+## Running the app:
+- npm run dev
+
 ## Deployment Test :
-- Heroku: https://essam-bearer-auth.herokuapp.com/ 
-- Github : https://github.com/essamomar93/bearer-auth 
-- pull request :https://github.com/essamomar93/bearer-auth/pull/1 
+- Heroku : https://essam-api-server.herokuapp.com/
+- Backend: https://github.com/essamomar93/api-server
+- last Pull request:
 
 ## Languages :
-- javascript 
+- javascript
 
-
-## UML : 
+UML :
+![bearer](bearer-auth.png)
 
