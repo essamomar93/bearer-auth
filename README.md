@@ -18,5 +18,5 @@
 ## Languages :
 - javascript
 
-UML :
+## UML :  
 ![bearer](bearer-auth.png)
