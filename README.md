@@ -17,3 +17,4 @@
 - javascript
 
 UML :
+![bearer](bearer-auth.png)
